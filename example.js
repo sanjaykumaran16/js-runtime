@@ -1,0 +1,1 @@
+Deno.core.print("Hello this from example.js\n")
